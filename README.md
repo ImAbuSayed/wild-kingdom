@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wild-kingdom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Wild Kingdom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wild-kingdom/) |
+| **Get License** | [Request Licensing for Wild Kingdom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wild-kingdom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `37f8c1cd5c1610e9a8b6031f028c8013513f900a9c430dd84c2fac2fc27c6efd` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
