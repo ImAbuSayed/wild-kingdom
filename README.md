@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wild-kingdom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wild Kingdom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wild-kingdom/) |
+| **Get License** | [Secure Licensing Rights for Wild Kingdom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wild-kingdom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 8f650b15d0d725cfb5f8308c4f42b898a8ca234d
+> ਕਾਲੀ ਰਾਤ ਦੀ ਖਾਮੋਸ਼ੀ ਵਿੱਚ ਤੇਰਾ ਲਿਸ਼ਕੇ face
+> ਦਿਲ ਮੇਰਾ ਧੜਕਦਾ ਤੇਜ ਛੱਡਕੇ ਆਪਣੀ space
+> ਤੇਰੀ ਇੱਕ ਮੁਸਕਾਨ ਤੇ ਮੈਂ ਹਾਰ ਬੈਠਾ ਮੇਰਾ mind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
